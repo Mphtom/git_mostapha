@@ -1,0 +1,16 @@
+article{
+    padding:14px ;
+    border-left: solid;
+}
+main{
+    border-top: 2px solid;
+}
+section{
+    margin:15px;
+}
+img{
+    display: none;
+}
+.block{
+    display: block;
+}
